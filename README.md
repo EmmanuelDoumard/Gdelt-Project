@@ -4,7 +4,7 @@
 
 ## Analyse de l'année 2019 via la base de données GDELT 
 
-L’objectif du projet est de concevoir un système qui permet d’analyser le jeu de donnees GDELT et ses sources de données.Il permettra de voir l’évolution des relations entre les différents pays, en étudiant le ton des mentions (positives/negatives) dans les articles médias de chaque pays.
+L’objectif du projet est de concevoir un système qui permet d’analyser le jeu de donnees GDELT et ses sources de données. Il permettra de voir l’évolution des relations entre les différents pays, en étudiant le ton des mentions (positives/négatives) dans les articles médias de chaque pays.
 
 Notre groupe de travail est composé de : Emmanuel DOUMARD, Hicham EL OUATIKI, Paul LEGOUX, Jean-Galbert ONGONO OLINGA, Ialifinaritra RAKOTONIAINA
 
@@ -23,7 +23,7 @@ Les fichiers GDELT events et GDELT Gkg de l'année 2019 ont été chargés sur l
 
 ## Extraction et preprocessing des données 
 
-Nous avons extrait les features utiles des données pour répondre aux requetes.
+Nous avons extrait les features utiles des données pour répondre aux requêtes.
 
 [Preprocessing](https://github.com/Korbenik/Gdelt-Project/blob/master/Bucket_to_Cassandra.json)
 
@@ -35,7 +35,7 @@ Nous avons extrait les features utiles des données pour répondre aux requetes.
 
 ## Visualisation 
 
-Les requetes ont été effectués sur Cassandra et visualisés grâce à l'outil de visualisation Zeppelin 
+Les requêtes ont été effectuées sur Cassandra et visualisées grâce à l'outil de visualisation de Zeppelin 
 
 [Requete Cassandra et Visualisation](https://github.com/Korbenik/Gdelt-Project/blob/master/Visualisation.json)
 
