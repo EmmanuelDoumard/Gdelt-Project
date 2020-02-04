@@ -6,8 +6,20 @@ L’objectif du projet est de concevoir un système qui permet d’analyser le j
 
 Notre groupe de travail est composé de : Emmanuel DOUMARD, Hicham EL OUATIKI, Paul LEGOUX, Jean-Galbert ONGONO OLINGA, Ialifinaritra RAKOTONIAINA
 
+
 ## Architecture proposée 
 
 ![Architecture](https://github.com/Korbenik/Gdelt-Project/blob/master/architecture.PNG)
 
 
+## Chargement des zip dans le bucket S3 
+
+Les fichiers GDELT events et GDELT Gkg de l'année 2019 ont été chargés sur le bucket S3 à partir du script suivant : 
+
+[Chargement des données dans S3]
+
+## Extraction et preprocessing des données 
+
+Nous avons extrait les features utiles des données pour répondre aux requetes.
+
+[Preprocessing]
