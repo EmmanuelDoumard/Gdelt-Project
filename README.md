@@ -41,6 +41,6 @@ Les requetes ont été effectués sur Cassandra et visualisés grâce à l'outil
 
 ## Présentation du projet 
 
-[Présentation]
+[Présentation finale](https://github.com/Korbenik/Gdelt-Project/blob/master/Projet%20Big%20Data%202019_%20GDELT.pdf)
 
 
