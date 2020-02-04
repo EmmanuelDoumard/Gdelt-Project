@@ -1,4 +1,4 @@
-! [Gdelt] (https://github.com/Korbenik/Gdelt-Project/blob/master/main.jpg)
+! [Gdelt](https://github.com/Korbenik/Gdelt-Project/blob/master/main.jpg)
 
 # GDELT 2019
 
