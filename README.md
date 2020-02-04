@@ -8,5 +8,6 @@ Notre groupe de travail est composé de : Emmanuel DOUMARD, Hicham EL OUATIKI, P
 
 ## Architecture proposée 
 
+!(https://github.com/Korbenik/Gdelt-Project/blob/master/architecture.PNG)
 
 
