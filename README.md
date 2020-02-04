@@ -18,26 +18,26 @@ Notre groupe de travail est composé de : Emmanuel DOUMARD, Hicham EL OUATIKI, P
 
 Les fichiers GDELT events et GDELT Gkg de l'année 2019 ont été chargés sur le bucket S3 à partir du script suivant : 
 
-[Chargement des données dans S3]
+[Chargement des données dans S3](https://github.com/Korbenik/Gdelt-Project/blob/master/Data_importation_to_S3.json)
 
 
 ## Extraction et preprocessing des données 
 
 Nous avons extrait les features utiles des données pour répondre aux requetes.
 
-[Preprocessing]
+[Preprocessing](https://github.com/Korbenik/Gdelt-Project/blob/master/Bucket_to_Cassandra.json)
 
 
 ## Création des tables Cassandra
 
-[Script création table Cassandra]
+[Script création table Cassandra](https://github.com/Korbenik/Gdelt-Project/blob/master/cassandra_script.sh)
 
 
 ## Visualisation 
 
 Les requetes ont été effectués sur Cassandra et visualisés grâce à l'outil de visualisation Zeppelin 
 
-[Requete Cassandra et Visualisation]
+[Requete Cassandra et Visualisation](https://github.com/Korbenik/Gdelt-Project/blob/master/Visualisation.json)
 
 ## Présentation du projet 
 
