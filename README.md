@@ -1,3 +1,5 @@
+![Gdelt] (https://github.com/Korbenik/Gdelt-Project/blob/master/main.jpg)
+
 # GDELT 2019
 
 ## Analyse de l'année 2019 via la base de données GDELT 
@@ -35,4 +37,10 @@ Nous avons extrait les features utiles des données pour répondre aux requetes.
 
 Les requetes ont été effectués sur Cassandra et visualisés grâce à l'outil de visualisation Zeppelin 
 
-[Requete Cassandra et Visualisation
+[Requete Cassandra et Visualisation]
+
+## Présentation du projet 
+
+[Présentation]
+
+
