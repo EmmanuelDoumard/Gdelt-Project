@@ -18,8 +18,21 @@ Les fichiers GDELT events et GDELT Gkg de l'année 2019 ont été chargés sur l
 
 [Chargement des données dans S3]
 
+
 ## Extraction et preprocessing des données 
 
 Nous avons extrait les features utiles des données pour répondre aux requetes.
 
 [Preprocessing]
+
+
+## Création des tables Cassandra
+
+[Script création table Cassandra]
+
+
+## Visualisation 
+
+Les requetes ont été effectués sur Cassandra et visualisés grâce à l'outil de visualisation Zeppelin 
+
+[Requete Cassandra et Visualisation
